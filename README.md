@@ -17,11 +17,12 @@ A simple To-Do application built with React that stores tasks using local storag
 - Tailwind CSS (for styling)
 
 ## Installation 📥
-```sh
+```
 git clone https://github.com/pruthvi300/TODOUsingContextApi
 cd app
 npm install
 npm start
+```
 Then, open http://localhost:3000 in your browser.
 
 Usage 📌
