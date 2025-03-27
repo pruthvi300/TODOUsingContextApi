@@ -19,7 +19,7 @@ A simple To-Do application built with React that stores tasks using local storag
 ## Installation 📥
 ```sh
 git clone https://github.com/pruthvi300/TODOUsingContextApi
-cd capp
+cd app
 npm install
 npm start
 Then, open http://localhost:3000 in your browser.
